@@ -14,7 +14,7 @@ Fournir une preuve vérifiable de ces accomplissements.
 
 Servir de référence rapide pour mes futurs projets et opportunités professionnelles.
 
-#🏅 Mes Certifications IBM
+# 🏅 Mes Certifications IBM
 Voici la liste de mes certifications IBM, avec une brève description de ce qu'elles couvrent :
 
 [OSS certification (open source system)]
