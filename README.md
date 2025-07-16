@@ -17,19 +17,19 @@ Servir de référence rapide pour mes futurs projets et opportunités profession
 # 🏅 Mes Certifications IBM
 Voici la liste de mes certifications IBM, avec une brève description de ce qu'elles couvrent :
 
-*[OSS certification (open source system) by IBM]*
+*OSS certification (open source system) by IBM*
 
 Date d'obtention : [Juin 2025]
 
-Description des compétences validées : [Ex: Maîtrise des concepts fondamentaux du Cloud Computing et de l'architecture de microservices sur IBM Cloud.]
+Description des compétences validées : [Ex: Maîtrise des concepts fondamentaux de l'open source system]
 
 Lien vers le Badge/Certificat IBM : [[Lien vers mon badge](https://www.credly.com/earner/earned/badge/4033ae47-8daf-4187-88d1-569cef5cccd9)]
 
-*[Agile certification by IBM]*
+*Agile certification by IBM*
 
 Date d'obtention : [Juin 2025]
 
-Description des compétences validées : [Ex: Aptitude à travailler avec des bases de données SQL et NoSQL dans un environnement cloud, incluant la conception de schémas et l'optimisation des requêtes.]
+Description des compétences validées : [Ex: Aptitude à travailler avec les compétences Agile by IBM]
 
 Lien vers le Badge/Certificat IBM : [[Lien vers mon badge](https://www.credly.com/earner/earned/badge/91b96c4f-a70a-4332-ab16-ac67a5925647)]
 
