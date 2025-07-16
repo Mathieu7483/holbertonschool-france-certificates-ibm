@@ -23,7 +23,7 @@ Date d'obtention : [Juin 2025]
 
 Description des compétences validées : [Ex: Maîtrise des concepts fondamentaux du Cloud Computing et de l'architecture de microservices sur IBM Cloud.]
 
-Lien vers le Badge/Certificat IBM : [[Insère ici le lien vers ton badge Credly](https://www.credly.com/earner/earned/badge/4033ae47-8daf-4187-88d1-569cef5cccd9)]
+Lien vers le Badge/Certificat IBM : [[Lien vers mon badge](https://www.credly.com/earner/earned/badge/4033ae47-8daf-4187-88d1-569cef5cccd9)]
 
 [Agile certification by IBM]
 
@@ -31,7 +31,7 @@ Date d'obtention : [Juin 2025]
 
 Description des compétences validées : [Ex: Aptitude à travailler avec des bases de données SQL et NoSQL dans un environnement cloud, incluant la conception de schémas et l'optimisation des requêtes.]
 
-Lien vers le Badge/Certificat IBM : [[Insère ici le lien vers ton badge Credly](https://www.credly.com/earner/earned/badge/91b96c4f-a70a-4332-ab16-ac67a5925647)]
+Lien vers le Badge/Certificat IBM : [[Lien vers mon badge](https://www.credly.com/earner/earned/badge/91b96c4f-a70a-4332-ab16-ac67a5925647)]
 
 # 🏫 Ma Formation à la Holberton School
 Ces certifications sont le fruit du programme intensif et pratique de la Holberton School, qui met l'accent sur l'apprentissage par la pratique et l'acquisition de compétences techniques directement applicables. La collaboration entre Holberton School et IBM a permis d'intégrer ces parcours de certification au cursus, offrant une validation externe et reconnue de mes acquis.
