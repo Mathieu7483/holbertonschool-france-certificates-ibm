@@ -1,4 +1,4 @@
-<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png" height ="20">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png" height ="200">
 
 # 🏆 Mes Certifications IBM - Obtenues via Holberton School
 Bienvenue dans ce dépôt (ou section de mon portfolio) dédié à mes certifications professionnelles obtenues auprès d'IBM, dans le cadre de ma formation intensive à la Holberton School. Ce répertoire est une preuve de mes compétences acquises et validées dans des domaines clés de la technologie moderne, en collaboration avec l'une des entreprises leaders de l'industrie.
