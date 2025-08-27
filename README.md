@@ -19,21 +19,29 @@ Servir de référence rapide pour mes futurs projets et opportunités profession
 # 🏅 Mes Certifications IBM
 Voici la liste de mes certifications IBM, avec une brève description de ce qu'elles couvrent :
 
-*OSS certification (open source system) by IBM*
+## *OSS certification (open source system) by IBM*
 
-Date d'obtention : [Juin 2025]
+Date d'obtention : Juin 2025
 
-Description des compétences validées : [Ex: Maîtrise des concepts fondamentaux de l'open source system]
+Description des compétences validées :  Maîtrise des concepts fondamentaux de l'open source system
 
 Lien vers le Badge/Certificat IBM : [[Lien vers mon badge OSS](https://www.credly.com/earner/earned/badge/4033ae47-8daf-4187-88d1-569cef5cccd9)]
 
-*Agile certification by IBM*
+## *Agile certification by IBM*
 
-Date d'obtention : [Juin 2025]
+Date d'obtention : Juin 2025
 
-Description des compétences validées : [Ex: Aptitude à travailler avec les compétences Agile by IBM]
+Description des compétences validées : Aptitude à travailler avec les compétences Agile by IBM
 
 Lien vers le Badge/Certificat IBM : [[Lien vers mon badge Agile](https://www.credly.com/earner/earned/badge/91b96c4f-a70a-4332-ab16-ac67a5925647)]
+
+## *Prompt Engineering for Everyone by IBM*
+
+date d'obtention : Août 2025
+
+Description des compétences validées : Permet de maîtriser l'art de communiquer avec des modèles d'IA comme ChatGPT. Il enseigne les principes fondamentaux de la conception de "prompts" (les instructions que l'on donne à l'IA) pour obtenir des réponses plus précises et pertinentes By IBM
+
+[lien vers mon diplome Prompt Engineering for Everyone](https://github.com/Mathieu7483/holbertonschool-france-certificates-ibm/blob/main/IBMSkillsNetwork%20AI0117EN%20Certificate%20_%20Cognitive%20Class.pdf)
 
 # 🏫 Ma Formation à la Holberton School
 Ces certifications sont le fruit du programme intensif et pratique de la Holberton School, qui met l'accent sur l'apprentissage par la pratique et l'acquisition de compétences techniques directement applicables. La collaboration entre Holberton School et IBM a permis d'intégrer ces parcours de certification au cursus, offrant une validation externe et reconnue de mes acquis.
